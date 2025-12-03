@@ -8,13 +8,20 @@
 1. Jenn: UI/UX Design, Prototyping, Frontend Development, Emotion-driven Interaction Design, System Architecture
 2. Latisha: Research, creative arts therapy, UI/UX design and project management.
 
-**Link to Prototype:** https://grain-luxury-01901327.figma.site
+
+**Link to Prototype 1:** https://oculus-outer-07751739.figma.site/
+**Link to Prototype 2:** https://grain-luxury-01901327.figma.site
 
 
 ## Progress update November 12th
 
 
 ![image alt text](https://deeply-family-b5f.notion.site/image/attachment%3A0337f142-d688-4d14-a943-52f9e8d22efd%3AScreenshot_2025-11-10_at_21.23.16.png?table=block&id=2a8151cd-651d-80c8-9ae6-d25ab80e73a3&spaceId=45596513-58aa-4f72-b8c8-046c63319ab0&width=1420&userId=&cache=v2)
+
+Prototype 1 Description:
+
+From the image to design, I developed a personalized emotional color palette by first guiding users to select an emoji that best represents their current mood, followed by choosing colors that reflect those feelings to implement the color based activity. These inputs are then mapped onto a 2D emotional model, allowing the system to interpret emotional tone through color psychology. Based on this combined emoji-and-color analysis wheel, the prototype generates a customized palette that visually captures the user’s emotional state and supports deeper self-awareness through intentional color selection.
+
 
 **Experience Steps**
 
@@ -131,7 +138,7 @@ It also points out that AI lacks emotional persistence and relational depth, rei
 Overall, I think this research provides a solid foundation for positioning AI not just as a tool, but as an emotional collaborator that co-creates meaning with users through dialogue, reflection, and shared creativity.
 
 
-
+Ethical Considerations (Emotive Journey): https://docs.google.com/document/d/1DBI9z_SvVcEeBWUrZKYe61XVQQ92oOjKffOPZSPhk0I/edit?usp=sharing
 
 
 ## Early Prototypes
